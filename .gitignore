@@ -91,5 +91,4 @@ iOSInjectionProject/
 
 
 # Ignore Constants.swift 
-
-youtube-player/youtube-player/Constants.swift
+Constants.swift
